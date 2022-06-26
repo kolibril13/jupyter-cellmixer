@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 cellmixer_env
+poetry.lock
