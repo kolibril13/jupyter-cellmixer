@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-06-27T09:12:08.301611Z",
+      "format": null,
+      "last_modified": "2022-06-27T09:12:05.969597Z",
+      "mimetype": "text/markdown",
+      "name": "README.md",
+      "path": "README.md",
+      "size": 142,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-27T09:12:08.301611Z",
+      "format": null,
+      "last_modified": "2022-06-27T09:12:05.973597Z",
+      "mimetype": null,
+      "name": "cellmixer_notebook.ipynb",
+      "path": "cellmixer_notebook.ipynb",
+      "size": 5080,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-06-27T09:12:08.301611Z",
+  "format": "json",
+  "last_modified": "2022-06-27T09:12:08.301611Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
