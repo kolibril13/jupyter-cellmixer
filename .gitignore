@@ -130,3 +130,5 @@ dmypy.json
 
 cellmixer_env
 poetry.lock
+
+.DS_STORE
